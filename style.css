@@ -1,34 +1,20 @@
-/**
- * Google Fonts Demo
- **/
-
-/* Add in the Google Fonts of your choice */
-
 * {
-  background-color: ivory;
-  color: darkolivegreen;
-}
-
-h1 {
-  letter-spacing: 3px;
-  font-family: "Bangers", cursive;
-}
-
-h3 {
-  font-family: "Anton", sans-serif;
-  font-weight: bold;
-  font-size: 20px;
-  text-decoration: underline;
-  letter-spacing: 0.05cm;
-}
-
-h4 {
-  text-decoration: underline;
-  font-family: "Anton", sans-serif;
-  letter-spacing: 0.01cm;
-  font-weight: lighter;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 p {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.size {
+  font-size: 25px;
+}
+
+.height {
+  line-height: 50px;
 }

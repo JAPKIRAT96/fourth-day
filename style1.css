@@ -1,0 +1,34 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+
+* {
+  background-color: ivory;
+  color: darkolivegreen;
+}
+
+h1 {
+  letter-spacing: 3px;
+  font-family: "Bangers", cursive;
+}
+
+h3 {
+  font-family: "Anton", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+  letter-spacing: 0.05cm;
+}
+
+h4 {
+  text-decoration: underline;
+  font-family: "Anton", sans-serif;
+  letter-spacing: 0.01cm;
+  font-weight: lighter;
+}
+
+p {
+  font-family: "Roboto Mono", monospace;
+}
